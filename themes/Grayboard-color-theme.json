@@ -827,7 +827,7 @@
 		"editorCursor.foreground": "#FFFFFFA6",
 		"editor.foreground": "#F8F8F8",
 		"editorWhitespace.foreground": "#FFFFFF40",
-		"editor.lineHighlightBackground": "#4b5258cc",
+		"editor.lineHighlightBackground": "#2d3135cc",
 		"editor.selectionBackground": "#253B76"
 	},
 	"name": "Grayboard"
