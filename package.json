@@ -1,0 +1,21 @@
+{
+    "name": "Grayboard",
+    "displayName": "Grayboard",
+    "description": "Grayboard",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Grayboard",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Grayboard-color-theme.json"
+            }
+        ]
+    }
+}
