@@ -828,7 +828,8 @@
 		"editor.foreground": "#F8F8F8",
 		"editorWhitespace.foreground": "#FFFFFF40",
 		"editor.lineHighlightBackground": "#2d3135cc",
-		"editor.selectionBackground": "#253B76"
+		"editor.selectionBackground": "#253B76",
+		"editor.selectionHighlightBackground": "#424242"
 	},
 	"name": "Grayboard"
 }
