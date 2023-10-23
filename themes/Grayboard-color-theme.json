@@ -1447,7 +1447,7 @@
 		"editorWhitespace.foreground": "#FFFFFF40",
 		"editor.lineHighlightBackground": "#2d3135cc",
 		"editor.selectionBackground": "#3656ad",
-		"editor.selectionHighlightBackground": "#cad2e6"
+		"editor.selectionHighlightBackground": "#255334",
 	},
 	"name": "Grayboard"
 }
